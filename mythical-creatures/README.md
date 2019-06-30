@@ -24,10 +24,10 @@ Otherwise, Create that file in the `lib` directory (`touch lib/unicorn.rb`) and 
 
 ## Suggested Order
 
-*  `unicorn_test.rb` --> complete
-* `vampire_test.rb` --> complete
-* `dragon_test.rb`
-* `hobbit_test.rb`
+*  `unicorn_test.rb` --> complete, default value and printing message
+* `vampire_test.rb` --> complete, default value
+* `dragon_test.rb` --> complete, changing value of initialized attribute
+* `hobbit_test.rb` --> complete, return values
 * `pirate_test.rb`
 * `wizard_test.rb`
 * `medusa_test.rb`

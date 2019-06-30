@@ -2,13 +2,13 @@ The strings.rb file has a number of exercises to help you better work with strin
 
 * #{}
 * capitalize
-* concat
-* chomp
-* chop
-* delete
-* include?
-* length
-* reverse
-* sub
-* strip
-* upcase
+* concat - combines two string values
+* chomp  - "hello".chomp("llo") #=> "he"
+* chop - "string".chop #=> "strin"
+* delete - "hello".delete "l","lo"  #=> "heo"
+* include? - true/false      "hello".include? "lo" #=> true
+* length - returns the length of the string
+* reverse - returns string in reverse order
+* sub - "hello".sub(/([aeiou])/, '<\1>')  #=> "h<e>llo"
+* strip - returns string with extra spacing removed
+* upcase - returns string in all upper case

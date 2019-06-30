@@ -24,8 +24,8 @@ Otherwise, Create that file in the `lib` directory (`touch lib/unicorn.rb`) and 
 
 ## Suggested Order
 
-* `unicorn_test.rb`
-* `vampire_test.rb`
+*  `unicorn_test.rb` --> complete
+* `vampire_test.rb` --> complete
 * `dragon_test.rb`
 * `hobbit_test.rb`
 * `pirate_test.rb`

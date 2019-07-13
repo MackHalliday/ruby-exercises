@@ -2,11 +2,11 @@ The files in this directory contain several exercises for you to complete. Befor
 
 Arrays:
 
-* []
-* []=
-* <<
-* push
-* pop
+* [] --> empty array
+* []= --> ?
+* << --> shovel one element into another  
+* push --> adds elements to an array. ex. arry.push(5) #=> adds 5 to array
+* pop --> removes last element from array and returns the removed elements. ex. arry s
 * length/size
 * rotate
 * include?

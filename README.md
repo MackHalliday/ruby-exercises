@@ -19,57 +19,57 @@ Here is a very rough suggested timeline for working on the exercises. This is ju
 
 * Week 1
   * data-types
-    * collections/arrays
-    * ints_and_floats
-    * strings
+    - [x] collections/arrays
+    - [x] ints_and_floats
+    - [x] strings
   * initialize
-    * aardvark
-    * beaver
-    * cat
-    * dog
-    * eel
-    * ferret
-    * groundhog
-    * horse
+    - [x] aardvark
+    - [x] beaver
+    - [x] cat
+    - [x] dog
+    - [x] eel
+    - [x] ferret
+    - [x] groundhog
+    - [x] horse
   * mythical-creatures
-    * Unicorn
-    * Vampire
-    * Dragon
+    - [x] Unicorn
+    - [x] Vampire
+    - [x] Dragon
   * enumerables/exercises
-    * find_pattern_test
-    * find_test
-    * map_pattern_test
-    * map_test
-    * select_pattern_test
-    * select_test
+    - [x] find_pattern_test
+    - [x] find_test
+    - [x] map_pattern_test
+    - [x] map_test
+    - [x] select_pattern_test
+    - [x] select_test
 
 * Week 2
-  * data-types/collections/hashes.rb
-  * objects-and-methods/exercise-1
+  - [X] data-types/collections/hashes.rb
+  - [] objects-and-methods/exercise-1
   * mythical-creatures
-    * Hobbit
-    * Pirate
-    * Wizard
+    - [x] Hobbit
+    - [] Pirate
+    - [] Wizard
   * command-query
-    * leather_chair_test.rb
-    * baby_test.rb
-    * beers_test.rb
+    - [] leather_chair_test.rb
+    - [] baby_test.rb
+    - [] beers_test.rb
 
 * Week 3
-  * datatypes/collections/nested_collections.rb
-  * object-and-methods/exercise-2
+  - [] datatypes/collections/nested_collections.rb
+  - [] object-and-methods/exercise-2
   * mythical-creatures
-    * Medusa
-    * Werewolf
-    * Centaur
-    * Ogre
+    - [] Medusa
+    - [] Werewolf
+    - [] Centaur
+    - [] Ogre
   * command-query
-    * adult_test.rb
-    * roll_call_test.rb
-    * wallet_test.rb
+    - [] adult_test.rb
+    - [] roll_call_test.rb
+    - [] wallet_test.rb
 
 * Week 4+
-	* Enumerables/exercises
-	* Iteration
-	* Command and Query
-	* Complete/Redo Mythical Creatures
+	- [] Enumerables/exercises
+	- [] Iteration
+	- [] Command and Query
+	- [] Complete/Redo Mythical Creatures
